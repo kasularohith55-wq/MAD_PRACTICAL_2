@@ -1,8 +1,12 @@
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/35a9519a-b190-4db5-96ca-cf6dc78a5c7f" />AIM: Create Android Application to demonstrate functions of Activity Life Cycle and Basic UI.
+**AIM**: Create Android Application to demonstrate functions of Activity Life Cycle and Basic UI.
+
 Create Activity to display “Hello World” in TextView in the center of Activity screen with yellow (android:background="#FFFF00") layout background of Activity. TextView properties should be Holo Blue color (android:textColor=@android:color/holo_blue_bright), 27sp font size (android:textSize="27sp") and make text style bold and italic (android:textStyle="bold|italic"). After creating Activity, demonstrate functions of Activity Life Cycle by using Log message, Toast message & Snackbar message. All methods of Activity life cycle should be printed in Logcat.
 
-Study: TextView and its properties, Toast Message, Snackbar Message, Android in-built resources like color, Activity Life Cycle, Log Message in logcat, Properties of Layout ConstraintLayout, Generate id of TextView
+**Study**: TextView and its properties, Toast Message, Snackbar Message, Android in-built resources like color, Activity Life Cycle, 
+Log Message in logcat, Properties of Layout ConstraintLayout, Generate id of TextView
 
-OUTPUT:<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/db27c98b-fb20-414f-9a09-dbc4e249c3b8" />
+**OUTPUT**:
+<img width="1919" height="1016" alt="Screenshot 2025-09-17 101723" src="https://github.com/user-attachments/assets/85936625-1e6a-44d0-b9c4-012728264233" />
+
 
 
